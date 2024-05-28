@@ -58,14 +58,14 @@ Computer Science and Engineering \hfill
 \begin{itemize}
 
 \item \textbf{HDFC}\hfill\hfill(\textit{July'23-Present})\\
-    IT System Analyst
+    IT Manager(AIOps)
 \begin{itemize}
-\item Working in AIOPS team, dealing with AI and Devops.
-\item Developed automation playbooks for On Demand Telemetry to check transactions and data for various application with respect to the query.
-\item Worked on both frontend and backend
+\item Working on elk stack, dealing with log monitoring and automation projects.
+\item Developed automation playbooks for Telemetry to check transactions and data for various application with respect to the SQL query.
+\item Used Ansible automation platform:
 \begin{enumerate}
-\item Frontend: Creating ansible template and survey form to get the requirement from user.
-\item Backend: Developed nodejs file to read the config json file with respect to the application and then post the data on MS-Team using webhook link.
+\item Creating ansible template, survey form and writing playbooks to SSH to the server and perform various automation tasks.
+\item Developed nodejs which read the config json file with respect to the application and then post the data on MS-Team using webhook link.
 \end{enumerate}
 \item This solution help other team to monitor data anytime and check the logs on demand by running Ansible playbook from Ansible tower.
 \end{itemize}
@@ -73,7 +73,7 @@ Computer Science and Engineering \hfill
 \item \textbf{Bigbasket}\hfill\hfill(\textit{Jan'23-Jun'23})\\
     Software Engineer
 \begin{itemize}
-\item Working in Order Department, on Vertx Java toolkit, which increases the scalability of the application significantly. 
+\item Worked in Order Department, on Vertx Java toolkit. 
 \item Implementing Swagger API documentation tool in Vertx Java framework for auto-documentation of API endpoints.
 \item Also working in on frontend React framework and backend, for developing feature which can help in republishing Kakfa publisher failed messages.
 \end{itemize}
@@ -137,7 +137,7 @@ AI $|$ Machine Learning $|$Python $|$ Numpy $|$ Panda $|$ Streamlit\hfill
 \itemsep0em
 \item \textbf{Programming}
 \begin{itemize}
-\item \textbf{Proficient:} C, C++, Python, NodeJs, React-JS, VertxJava JavaScript, HTML, CSS, DJANGO
+\item \textbf{Proficient:} C, C++, Python, NodeJs, Elasticsearch, Logstash, Grafana, React-JS, VertxJava JavaScript, HTML, CSS, DJANGO
 \item \textbf{Familiar:} SQL, Reactive Java, 
 \end{itemize}
 \item \textbf{Utilities:} Github and Git, Ansible, Playbook, Shell Scripting
@@ -166,8 +166,6 @@ Database Management System
 \item Bash Scripting and Shell Programming by Json Cannon \textbf{UDEMY} \hfill (2023)
 \item Devops In Real World by Json Cannon \textbf{UDEMY} \hfill (2023)
 \item Introduction to Programming Using HTML and CSS, \textbf{GFG} \hfill (2021)
-% \item Android App Development, \textbf{Internshala} \hfill (2022)
-\item Machine Learning In Python, \textbf{1Stop.ai} \hfill (2022)
 \end{itemize}
 
 \end{document}
